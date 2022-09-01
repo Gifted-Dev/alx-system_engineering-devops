@@ -1,1 +1,1 @@
-Learning shell navigation and linus DevOps
+Learning shell navigation and linux DevOps
